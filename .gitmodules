@@ -1,0 +1,4 @@
+[submodule "glm"]
+    path = glm
+    url = git://github.com/devernay/glm.git
+    ignore = dirty
